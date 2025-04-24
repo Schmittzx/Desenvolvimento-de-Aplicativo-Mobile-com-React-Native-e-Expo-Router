@@ -46,5 +46,8 @@ product.ts          # Definição de tipo para Produto
 4. **Inicie o aplicativo:** 'npx expo start' (com o emulador aberto ou dispositivo físico)
 
 [Pablo Henrique Schmitt]
+
 [Sistemas de Informação]
+
 [Faculdade Assis Gurgacz]
+
